@@ -18,6 +18,8 @@ namespace Point
 
 			Console.WriteLine(p1.x);
 			Console.WriteLine(p2.x);
+
+			Console.WriteLine("\aIt works. \u000A");
 		}
 	}
 }
